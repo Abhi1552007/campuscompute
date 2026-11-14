@@ -60,7 +60,7 @@ Worker failures are deliberate and chosen on the command line, and the program l
 ```
 Makefile  README.md  TEAM_GUIDE.md
 include/  common.h logger.h modules.h
-src/      main.c util.c job.c scheduler.c banker.c        (Person A)
-          logger.c ipc.c worker.c rlimit_demo.c           (Person B)
+src/      main.c util.c job.c scheduler.c banker.c        Abhinav Rao B. - PES1UG25CS015
+          logger.c ipc.c worker.c rlimit_demo.c           Abhiram Agaram - PES1UG25CS017
 tests/    jobs.txt bad_jobs.txt malformed_jobs.txt safe.txt unsafe.txt
 ```
